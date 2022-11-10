@@ -1,6 +1,6 @@
 # Table of Contents
 1. [General Info](#general-info)
-2. [Videos](#videos)
+2. [Images](#images)
 3. [Technologies](#technologies)
 4. [Installation](#installation)
 5. [Run](#run)
@@ -55,7 +55,7 @@ Once this lab is compleate you should have gain experience with the micro:bit se
 C programming language and how multi-threaded tasks are handled accross multi-paged programs. However, due to personal family matters and a change of circumstances, I was unable to 
 fix the remaining memory issues which I believed to have caused the results below.
 
-### Videos
+### Images
 ***
 ***Task***
 
